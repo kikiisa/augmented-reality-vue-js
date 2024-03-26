@@ -1,6 +1,6 @@
 <script setup>
     
-    import * as THREE from "three"
+  
     import ImageComponent from "../components/ImageComponent.vue";
     import MenuComponent from "../components/MenuComponent.vue";
 </script>
